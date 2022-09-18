@@ -72,7 +72,7 @@ function Footer() {
       <div className="copyright">
         <span>Copyright</span>
         &copy;
-        <span>2022 All Rights Reserved www.iniwebsite.com</span>
+        <span>2022 All Rights Reserved www.garagejakarta@gmail.com</span>
       </div>
     </>
   );
