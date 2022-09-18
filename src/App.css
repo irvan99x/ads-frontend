@@ -280,18 +280,6 @@ select {
   margin-right: -15px;
 }
 
-.arrow:focus {
-  background-color: transparent;
-}
-
-.arrow-next:focus {
-  background-color: transparent;
-}
-
-.arrow-prev:focus {
-  background-color: transparent;
-}
-
 .arrow-prev {
   left: 30px;
   position: absolute;
