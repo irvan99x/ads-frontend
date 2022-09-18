@@ -18,7 +18,8 @@ function Footer() {
           <h6>
             Alamat
             <span style={{ marginLeft: "5px" }}>
-              : Jl. Kartika Plaza Gg. Puspa Ayu No. 97, Kuta, Kec. Kuta Kab. Badung, Bali. 80361, Indonesia
+              : Jl. Kartika Plaza Gg. Puspa Ayu No. 97, Kuta, Kec. Kuta Kab.
+              Badung, Bali. 80361, Indonesia
             </span>
           </h6>
         </div>
@@ -37,7 +38,9 @@ function Footer() {
           </div>
           <h6>
             Email
-            <span style={{ marginLeft: "18px" }}>: garagejakarta@gmail.com</span>
+            <span style={{ marginLeft: "18px" }}>
+              : garagejakarta@gmail.com
+            </span>
           </h6>
         </div>
         <div className="web">
